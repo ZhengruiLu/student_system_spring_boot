@@ -1,6 +1,6 @@
 # student_system_spring_boot
 
-**student_system** is a program which can add and perform student information.
+**student_system** is a program which users can add and perform student information.
 
 Submitted by: **Zhengrui Lu**
 
