@@ -1,41 +1,70 @@
-# student_system_spring_boot
+# Getting Started with Create React App
 
-**student_system** is a program which users can add and perform student information.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Submitted by: **Zhengrui Lu**
+## Available Scripts
 
-Time spent: **10** hours spent in total
+In the project directory, you can run:
 
-## User Stories
+### `npm start`
 
-The following **functionality** is completed:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-* [X] users can add student name and address
-* [X] users can view the whole form of all students information
-* [X] create Full stack web application using Spring Boot and React
-* [X] use Spring Boot ( MVC, JPA, Hibernate) and Mysql Database to create the Backend application (Restful web service API)
-* [X] use React.js to create the frontend application with Material UI and React Hooks( useState, useEffect) with functional components
-* [X] build simple full stack project with RESTful Web services API and also use fetch for consuming REST API
-* [X] support for CRUD extension
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Visualization Sample
+### `npm test`
 
-Here's a sample of implemented project stories: 
-TBD
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## License
+### `npm run build`
 
-    Copyright [yyyy] [name of copyright owner]
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-        http://www.apache.org/licenses/LICENSE-2.0
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
